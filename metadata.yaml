@@ -13,10 +13,11 @@ serial_number: "015"
 doc_id: "TSTN-015"
 
 # Title of the document, without the series/serial designation
-doc_title: "Auxiliary Telescope: Using CWFS during operations and for collimation."
+doc_title: "Using CWFS during operations and for collimation of the Auxiliary Telescope"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
+  - "Patrick Ingraham"
   - "Tiago Ribeiro"
 
 # Current document revision date, YYYY-MM-DD
